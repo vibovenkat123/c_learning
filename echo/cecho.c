@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
       }
     }
   } else {
-    fputs(" ", stdout);
+    fputs("\n", stdout);
   }
   return 0;
 }
